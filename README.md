@@ -5,7 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile;Building+Amazing+Software;Passionate+About+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com
+font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile;Building+Amazing+Software;Passionate+About+Technology" alt="Typing SVG" />
 </div>
 
 ###
@@ -15,11 +16,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouez-jedidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouez-jedidi&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophy" />
-</div>
 
 ###
 
