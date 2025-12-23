@@ -1,3 +1,4 @@
+<div style="background-color: black;">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Moez%20Jedidi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
@@ -209,4 +210,5 @@ const moez = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Quote" />
+</div>
 </div>
