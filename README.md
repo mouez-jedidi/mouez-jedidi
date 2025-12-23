@@ -1,4 +1,3 @@
-<div style="background-color: black;">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Moez%20Jedidi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
@@ -29,14 +28,14 @@ const moez = {
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouez-jedidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouez-jedidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mouez-jedidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouez-jedidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mouezjedidi&theme=dark&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mouez-jedidi&theme=dark&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
 ###
@@ -175,15 +174,10 @@ const moez = {
 
 <h2 align="center">📊 Contribution Graph 📊</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouez-jedidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouez-jedidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -210,5 +204,4 @@ const moez = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Quote" />
-</div>
 </div>
