@@ -35,7 +35,7 @@ const moez = {
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mouez-jedidi&theme=dark&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mouez-jedidi&theme=dark&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
 ###
@@ -174,10 +174,14 @@ const moez = {
 
 <h2 align="center">📊 Contribution Graph 📊</h2>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
