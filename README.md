@@ -35,7 +35,7 @@ const moez = {
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mouez-jedidi&theme=dark&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mouezjedidi&theme=dark&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
 ###
@@ -175,7 +175,8 @@ const moez = {
 <h2 align="center">📊 Contribution Graph 📊</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mouez-jedidi/mouez-jedidi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mouez-jedidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouez-jedidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <picture>
